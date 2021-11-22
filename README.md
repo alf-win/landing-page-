@@ -1,2 +1,2 @@
-# landing-page-
-mobile foundation 
+# mobilenativefoundation.org
+Mobile Native Foundation
